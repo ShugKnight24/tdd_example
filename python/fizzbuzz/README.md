@@ -33,3 +33,17 @@ Buzz
 ## Updated Requirements
 Print 'Fuzz' if there is a 3 in the number
 Print 'Buzz' if there is a 5 in the number
+
+## Approach
+Break the problem down into smaller problems...
+Use 'Given', 'When', 'Then' to describe the problem and what the expected output is.
+Red -> Green -> Refactor
+Refactor the next smallest step
+
+Source code & version history can be found [here](https://www.cyber-dojo.org/kata/edit/vSUNCZ)
+
+Jumped between lowest to highest numbers to see the different outcomes and how it was progressing
+
+## Testing
+Write tests from the bottom up to ensure that the program is working correctly and covers all the requirements.
+Also helps to catch any bugs early and will idealy prevent them from being introduced.

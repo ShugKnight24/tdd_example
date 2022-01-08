@@ -23,3 +23,7 @@ Fizz
 19
 Buzz
 ... etc up to 100
+
+## Updated Requirements
+Print 'Fuzz' if there is a 3 in the number
+Print 'Buzz' if there is a 5 in the number
